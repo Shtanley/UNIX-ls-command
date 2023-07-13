@@ -1,13 +1,12 @@
 # UNIX ls command in C
-____________________________________________________________________________________________________
 
-Deliverables:
-    1. UnixLs.C
-    2. UnixLs.h
-    3. lsOptions.h
-    4. lsOptions.C
-    5. Makefile
-    6. README
+Deliverables:\
+    nbsp 1. UnixLs.C\
+    nbsp 2. UnixLs.h\
+    nbsp 3. lsOptions.h\
+    nbsp 4. lsOptions.C\
+    nbsp 5. Makefile\
+    nbsp 6. README\
 
 Makefile Instructions:
     1. make all - compiles the program
