@@ -8,11 +8,11 @@ Deliverables:\
 &ensp; 5. Makefile\
 &ensp; 6. README
 
-Makefile Instructions:
-&ensp; 1. make all - compiles the program
-&ensp; 2. make clean - removes all the object files and the executable
-&ensp; 3. make test-single - tests ls with each option, -i, -l, -R including no options
-&ensp; 4. make test-multiple - tests ls command contating multiple options (ls -i -l, ls -i -R -L, etc.)
+Makefile Instructions:\
+&ensp; 1. make all - compiles the program\
+&ensp; 2. make clean - removes all the object files and the executable\
+&ensp; 3. make test-single - tests ls with each option, -i, -l, -R including no options\
+&ensp; 4. make test-multiple - tests ls command contating multiple options (ls -i -l, ls -i -R -L, etc.)\
 
 Command line Instructions:
     - Syntax: ./UnixLs -[i/l/R] [file/directory]
